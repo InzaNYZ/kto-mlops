@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: Première step d'intro !!
         run: |
-          echo "COUCOU ! " 
+          echo "COUCOU !"
